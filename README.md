@@ -24,4 +24,4 @@ Projeyi yerel ortamda çalıştırmak için:
 git clone https://github.com/alevyldrm/netflix-project.git
 cd my-project
 npm install
-npm start
+npm run dev
