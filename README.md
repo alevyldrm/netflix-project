@@ -3,7 +3,7 @@
 Bu proje Netflix’in temel arayüz ve işlevlerini taklit eden bir React uygulamasıdır. Amaç, modern web geliştirme becerilerini sergilemek ve API tabanlı bir içerik gösterim sistemi geliştirmektir.
 
 ## 🚀 Canlı Demo  
-[Canlı siteyi görüntüle] (https://cloneproject-demo.netlify.app/login)
+[Canlı Siteyi Görüntüle](https://cloneproject-demo.netlify.app/login)
 
 ## Özellikler
 - **Film ve Dizi Listeleri:** API üzerinden içerik çekme ve listeleme.
