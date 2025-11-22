@@ -20,7 +20,7 @@ Bu proje Netflix’in temel arayüz ve işlevlerini taklit eden bir React uygula
 Projeyi yerel ortamda çalıştırmak için:
 
 ```bash
-git clone https://github.com/aemreer/netflix-clone.git
+git clone https:(https://github.com/alevyldrm/netflix-project)
 cd netflix-clone
 npm install
 npm start
