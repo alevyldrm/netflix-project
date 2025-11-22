@@ -10,13 +10,13 @@ Bu proje Netflix’in temel arayüz ve işlevlerini taklit eden bir React uygula
 - **Responsive Tasarım:** Mobil ve masaüstü cihazlarda uyumlu.
 - **Modern UI:** Netflix tasarımına sadık, kullanıcı dostu arayüz.
 
-## Teknolojiler
+## 🛠 Teknolojiler
 - React  
 - JavaScript (ES6+)  
 - CSS / Flexbox  
 - Fetch API  
 
-## 📦 Kurulum  
+## ⚙️ Kurulum  
 Projeyi yerel ortamda çalıştırmak için:
 
 ```bash
